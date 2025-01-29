@@ -1,5 +1,6 @@
 # Age Calculator
-![image](https://github.com/user-attachments/assets/fe380a53-8a78-42d8-9ed6-3a9caefe2cde)
+![image](https://github.com/user-attachments/assets/892b2377-364c-4581-960f-9b58446fe05c)
+
 
 Age Calculator:
 
